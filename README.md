@@ -28,7 +28,8 @@ Design an interactive dashboard in Tableau for business stakeholders to track **
 ---
 
 ## 🖼 Dashboard Preview
-*(Insert screenshot of dashboard here)*
+<img width="1254" height="801" alt="Screenshot 2025-08-09 202538" src="https://github.com/user-attachments/assets/208d28e9-f927-4330-a622-7f354a6ffca8" />
+
 
 ---
 
